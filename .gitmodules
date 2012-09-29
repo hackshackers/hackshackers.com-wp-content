@@ -1,0 +1,15 @@
+[submodule "plugins/embedly"]
+	path = content/plugins/embedly
+	url = https://github.com/embedly/embedly_wordpress_plugin.git
+[submodule "plugins/edit-flow"]
+	path = content/plugins/edit-flow
+	url = https://github.com/danielbachhuber/Edit-Flow.git
+[submodule "plugins/wp-document-revisions"]
+	path = content/plugins/wp-document-revisions
+	url = https://github.com/benbalter/WP-Document-Revisions.git
+[submodule "plugins/storify"]
+	path = content/plugins/storify
+	url = https://github.com/benbalter/Storify-WordPress-Plugin.git
+[submodule "plugins/buddypress"]
+	path = content/plugins/buddypress
+	url = https://github.com/buddypress/trunk.git
